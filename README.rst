@@ -6,16 +6,16 @@ PTable is a simple Python library designed to make it quick and easy to
 represent tabular data in visually appealing ASCII tables, originally
 forked from `PrettyTable <https://code.google.com/p/prettytable/>`_.
 
-.. image:: https://travis-ci.org/kxxoling/PTable.svg
-    :target: https://travis-ci.org/kxxoling/PTable
+.. image:: https://travis-ci.org/tducret/PTable.svg
+    :target: https://travis-ci.org/tducret/PTable
     :alt: Build Status
 
-.. image:: https://landscape.io/github/kxxoling/PTable/master/landscape.svg?style=flat
-    :target: https://landscape.io/github/kxxoling/PTable/master
+.. image:: https://landscape.io/github/tducret/PTable/master/landscape.svg?style=flat
+    :target: https://landscape.io/github/tducret/PTable/master
     :alt: Code Health
 
-.. image:: https://coveralls.io/repos/github/kxxoling/PTable/badge.svg?branch=master
-    :target: https://coveralls.io/github/kxxoling/PTable?branch=master
+.. image:: https://coveralls.io/repos/github/tducret/PTable/badge.svg?branch=master
+    :target: https://coveralls.io/github/tducret/PTable?branch=master
     :alt: Coverage
 
 
